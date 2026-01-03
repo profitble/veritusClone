@@ -1,0 +1,9 @@
+<svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(0, 10)">
+<path d="M0 70.4429H69.9145L68.0818 78.3233C65.3288 90.1613 54.7788 98.5393 42.6249 98.5393H0V70.4429Z" fill="#FF3C00"/>
+<path d="M100.624 70.4429H69.9139L71.7466 62.5624C74.4996 50.7244 85.0496 42.3464 97.2035 42.3464H100.624V70.4429Z" fill="#FF3C00"/>
+<path d="M0 35.8124H69.9145L68.0818 43.6928C65.3288 55.5308 54.7788 63.9089 42.6249 63.9089H0V35.8124Z" fill="#FF3C00"/>
+<path d="M100.624 35.8126H69.9139L71.7466 27.9322C74.4996 16.0942 85.0496 7.71615 97.2035 7.71615H100.624V35.8126Z" fill="#FF3C00"/>
+</g>
+<text x="120" y="99" font-family="system-ui, -apple-system, sans-serif" font-size="99" font-weight="400" fill="#0D3B42">argon labs</text>
+</svg>
